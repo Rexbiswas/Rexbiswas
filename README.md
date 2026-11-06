@@ -1,8 +1,20 @@
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rexbiswas/Rexbiswas/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rexbiswas/Rexbiswas/main/light.svg">
-  <img alt="Rishi Biswas | Full-Stack Developer" src="https://raw.githubusercontent.com/Rexbiswas/Rexbiswas/main/light.svg" width="100%">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Rexbiswas/Rexbiswas/main/dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Rexbiswas/Rexbiswas/main/light.svg"
+  >
+  <img
+    src="https://raw.githubusercontent.com/Rexbiswas/Rexbiswas/main/light.svg"
+    alt="Rishi Biswas — Full-Stack Developer"
+    width="100%"
+  >
 </picture>
+
 
 <h1 align="center">Hi, I'm Rishi Biswas</h1>
 
