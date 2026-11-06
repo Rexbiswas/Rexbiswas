@@ -4,7 +4,7 @@
   <img alt="Rishi Biswas | Full-Stack Developer" src="https://raw.githubusercontent.com/Rexbiswas/Rexbiswas/main/light.svg" width="100%">
 </picture>
 
-<h1 align="center">Hi 👋, I'm Rishi Biswas</h1>
+<h1 align="center">Hi, I'm Rishi Biswas</h1>
 
 <h3 align="center">Full-Stack Developer | Creative Developer | Tech Enthusiast</h3>
 
@@ -14,19 +14,25 @@
 
 ---
 
-## 👨‍💻 About Me
+<h2>
+  <img src="https://img.shields.io/badge/ABOUT-22D3EE?style=flat-square&logo=aboutdotme&logoColor=black" height="22" alt="About">
+  About Me
+</h2>
 
-- 🚀 I'm a **Full-Stack Developer** passionate about building modern web applications.
-- 🎨 Interested in creative UI/UX, animations, and interactive web experiences.
-- 🌐 Exploring 3D web development and immersive digital experiences.
-- 💡 Always learning new technologies and improving my development skills.
-- 📍 Based in India.
-- 🎓 Economics Honours graduate.
-- ⚡ Current focus: **Building | Learning | Shipping**
+- I'm a **Full-Stack Developer** passionate about building modern web applications.
+- Interested in creative UI/UX, animations, and interactive web experiences.
+- Exploring 3D web development and immersive digital experiences.
+- Always learning new technologies and improving my development skills.
+- Based in India.
+- Economics Honours graduate.
+- Current focus: **Building | Learning | Shipping**
 
 ---
 
-## 🛠️ Tech Stack
+<h2>
+  <img src="https://img.shields.io/badge/TECH_STACK-22D3EE?style=flat-square&logo=code&logoColor=black" height="22" alt="Tech Stack">
+  Tech Stack
+</h2>
 
 ### Frontend Development
 
@@ -60,7 +66,10 @@
 
 ---
 
-## 📊 GitHub Statistics
+<h2>
+  <img src="https://img.shields.io/badge/GITHUB_STATS-22D3EE?style=flat-square&logo=github&logoColor=black" height="22" alt="GitHub Statistics">
+  GitHub Statistics
+</h2>
 
 <p align="center">
   <i>GitHub statistics dashboard coming soon...</i>
@@ -68,7 +77,10 @@
 
 ---
 
-## 🐍 Contribution Activity
+<h2>
+  <img src="https://img.shields.io/badge/ACTIVITY-22D3EE?style=flat-square&logo=githubactions&logoColor=black" height="22" alt="Contribution Activity">
+  Contribution Activity
+</h2>
 
 <p align="center">
   <i>Contribution animation coming soon...</i>
@@ -76,7 +88,10 @@
 
 ---
 
-## 🌐 Connect With Me
+<h2>
+  <img src="https://img.shields.io/badge/CONNECT-22D3EE?style=flat-square&logo=linktree&logoColor=black" height="22" alt="Connect">
+  Connect With Me
+</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rishi-biswas-0474a6258/">
@@ -93,10 +108,10 @@
 ---
 
 <p align="center">
-  <b>Building | Learning | Shipping</b><br>
+  <b>BUILDING | LEARNING | SHIPPING</b><br>
   <i>Turning ideas into digital experiences.</i>
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  <img src="https://img.shields.io/badge/THANKS_FOR_VISITING-22D3EE?style=flat-square&logo=github&logoColor=black" alt="Thanks for visiting">
 </p>
