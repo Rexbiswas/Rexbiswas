@@ -1,11 +1,11 @@
 ```{=html}
 <!-- GitHub Profile README for Rexbiswas -->
 ```
-`<picture>`{=html}
-`<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rexbiswas/Rexbiswas/main/dark.svg">`{=html}
-`<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rexbiswas/Rexbiswas/main/light.svg">`{=html}
-`<img alt="Rishi Biswas | Full-Stack Developer" src="https://raw.githubusercontent.com/Rexbiswas/Rexbiswas/main/light.svg" width="100%">`{=html}
-`</picture>`{=html}
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rexbiswas/Rexbiswas/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rexbiswas/Rexbiswas/main/light.svg">
+  <img alt="Rishi Biswas | Full-Stack Developer" src="https://raw.githubusercontent.com/Rexbiswas/Rexbiswas/main/light.svg" width="100%">
+</picture>
 
 ```{=html}
 <h1 align="center">
