@@ -259,13 +259,6 @@ console.log("Turning ideas into digital experiences.");
 
 <p align="center">
 
-  <a href="https://cryptora-smoky.vercel.app/">
-    <img
-      src="https://img.shields.io/badge/CRYPTORA-Explore_Project-10B981?style=for-the-badge"
-      alt="Cryptora"
-    >
-  </a>
-
   <a href="https://noodle-artistary.vercel.app/">
     <img
       src="https://img.shields.io/badge/NOODLE_ARTISTARY-Explore_Project-F59E0B?style=for-the-badge"
