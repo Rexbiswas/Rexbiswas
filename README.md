@@ -1,218 +1,196 @@
 
-<!-- ========================================================= -->
-<!-- RISHI BISWAS | CYBERNETIC DEVELOPER INTERFACE             -->
-<!-- GITHUB: Rexbiswas                                         -->
-<!-- ========================================================= -->
+<!-- ===================================================== -->
+<!-- RISHI BISWAS | FULL-STACK & CREATIVE DEVELOPER         -->
+<!-- GitHub: Rexbiswas                                      -->
+<!-- ===================================================== -->
 
-<!-- ================= CYBERNETIC PROFILE BANNER ================= -->
+<!-- ================= PROFILE BANNER ================= -->
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Rexbiswas/Rexbiswas/main/cyber-banner.svg"
-    width="100%"
-    alt="Rishi Biswas Cybernetic Developer Interface"
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Rexbiswas/Rexbiswas/main/dark.svg"
   >
-</p>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Rexbiswas/Rexbiswas/main/light.svg"
+  >
+  <img
+    src="https://raw.githubusercontent.com/Rexbiswas/Rexbiswas/main/light.svg"
+    alt="Rishi Biswas — Full-Stack Developer"
+    width="100%"
+  >
+</picture>
 
-<!-- ================= SYSTEM IDENTITY ================= -->
+<!-- ================= INTRODUCTION ================= -->
 
-<h1 align="center">
-  <samp>RISHI BISWAS</samp>
-</h1>
+<h1 align="center">RISHI BISWAS</h1>
 
 <h3 align="center">
-  <samp>FULL-STACK DEVELOPER</samp>
+  FULL-STACK DEVELOPER
   <br>
-  <sub>CREATIVE TECHNOLOGIST // 3D WEB ENTHUSIAST</sub>
+  CREATIVE DEVELOPER | 3D WEB ENTHUSIAST
 </h3>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=INITIALIZING+DEVELOPER+INTERFACE...;BUILDING+INTELLIGENT+WEB+APPLICATIONS;ENGINEERING+INTERACTIVE+EXPERIENCES;EXPLORING+AI%2C+3D+AND+CREATIVE+TECH;TURNING+IDEAS+INTO+DIGITAL+REALITY"
-    alt="Developer status animation"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Applications;Creating+Interactive+User+Experiences;Developing+Scalable+Full-Stack+Solutions;Exploring+3D+and+Creative+Web+Development"
+    alt="Developer introduction"
   >
 </p>
 
+<!-- ================= ACTION BUTTONS ================= -->
+
 <p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F5FF?style=flat-square&labelColor=1D1D1F" alt="System online">
-  <img src="https://img.shields.io/badge/CORE-CREATIVE_ENGINEERING-8B5CF6?style=flat-square&labelColor=1D1D1F" alt="Creative engineering">
-  <img src="https://img.shields.io/badge/MODE-BUILDING-00F5FF?style=flat-square&labelColor=1D1D1F" alt="Building">
+
+  <a href="https://portfolio-nu-ivory-6osvaih25l.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/◐_SWITCH_THEME-DARK_/_LIGHT-22D3EE?style=for-the-badge&labelColor=101827"
+      alt="Switch theme on portfolio"
+    >
+  </a>
+
+  <a href="https://portfolio-nu-ivory-6osvaih25l.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Explore portfolio"
+    >
+  </a>
+
+  <a href="https://www.linkedin.com/in/rishi-biswas-0474a6258/">
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    >
+  </a>
+
 </p>
 
-<!-- ================= ACCESS PORTALS ================= -->
-
 <p align="center">
-  <a href="https://portfolio-nu-ivory-6osvaih25l.vercel.app/">
-    <img src="https://img.shields.io/badge/◉_ACCESS_PORTFOLIO-00F5FF?style=for-the-badge&labelColor=1D1D1F&logo=vercel&logoColor=00F5FF" alt="Access portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/rishi-biswas-0474a6258/">
-    <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-8B5CF6?style=for-the-badge&labelColor=1D1D1F&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <img
+    src="https://img.shields.io/badge/BUILDING-LEARNING-SHIPPING-22D3EE?style=flat-square&labelColor=101827"
+    alt="Building Learning Shipping"
+  >
 </p>
 
 ---
 
-<!-- ================= 01: SYSTEM PROFILE ================= -->
+<!-- ================= ABOUT ME ================= -->
 
 <h2>
-  <img src="https://img.shields.io/badge/01-SYSTEM_PROFILE-00F5FF?style=flat-square&labelColor=1D1D1F" height="25" alt="System profile">
+  <img src="https://img.shields.io/badge/01-ABOUT_ME-22D3EE?style=flat-square&logo=aboutdotme&logoColor=black" height="25" alt="About Me">
 </h2>
 
 ```javascript
 const developer = {
-  identity: {
-    name: "Rishi Biswas",
-    username: "Rexbiswas",
-    location: "India",
-    role: "Full-Stack Developer"
-  },
+  name: "Rishi Biswas",
+  username: "Rexbiswas",
+  role: "Full-Stack Developer",
+  location: "India",
+  education: "Economics Honours",
 
-  specialization: [
-    "Frontend Engineering",
-    "Backend Architecture",
+  interests: [
+    "Full-Stack Development",
     "Creative UI/UX",
     "3D Web Development",
-    "Interactive Experiences"
+    "Interactive Experiences",
+    "Real-Time Applications"
   ],
 
-  technologies: {
-    frontend: ["React", "Next.js", "JavaScript", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js", "PHP"],
-    database: ["MongoDB", "MySQL", "SQLite"],
-    creative: ["Three.js", "WebGL", "GSAP"]
-  },
-
-  currentMission: "Building the future, one project at a time."
+  currentFocus: "Building | Learning | Shipping"
 };
 
-console.log("Developer system initialized.");
+console.log("Turning ideas into digital experiences.");
 ```
 
-<p>
-  Building responsive, modern and scalable web applications.
-</p>
-
-<p>
-  Passionate about frontend engineering, backend architecture and immersive digital experiences.
-</p>
-
-<p>
-  Exploring 3D environments, WebGL, creative animations and real-time applications.
-</p>
-
-<p>
-  Focused on clean architecture, optimized performance and exceptional user experiences.
-</p>
+- Building responsive, modern and scalable web applications.
+- Passionate about frontend engineering and backend architecture.
+- Exploring Three.js, WebGL and immersive 3D experiences.
+- Interested in real-time systems and interactive applications.
+- Focused on clean code, optimized performance and user experience.
+- Always learning and building new things.
 
 ---
 
-<!-- ================= 02: SYSTEM DIAGNOSTICS ================= -->
+<!-- ================= TECH STACK ================= -->
 
 <h2>
-  <img src="https://img.shields.io/badge/02-SYSTEM_DIAGNOSTICS-00F5FF?style=flat-square&labelColor=1D1D1F" height="25" alt="System diagnostics">
+  <img src="https://img.shields.io/badge/02-TECHNICAL_ARSENAL-22D3EE?style=flat-square&logo=code&logoColor=black" height="25" alt="Technical Arsenal">
 </h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/CORE-ONLINE-00F5FF?style=flat-square&labelColor=1D1D1F" alt="Core online">
-      <br>
-      <sub>DEVELOPMENT</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/MODE-ACTIVE-8B5CF6?style=flat-square&labelColor=1D1D1F" alt="Mode active">
-      <br>
-      <sub>LEARNING</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/FOCUS-CREATIVE_TECH-00F5FF?style=flat-square&labelColor=1D1D1F" alt="Creative technology">
-      <br>
-      <sub>INNOVATION</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- ================= 03: TECHNOLOGY MATRIX ================= -->
-
-<h2>
-  <img src="https://img.shields.io/badge/03-TECHNOLOGY_MATRIX-00F5FF?style=flat-square&labelColor=1D1D1F" height="25" alt="Technology matrix">
-</h2>
-
-<h3>◈ Frontend Engineering</h3>
+<h3>Frontend Engineering</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend technologies">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="HTML CSS JavaScript TypeScript React Next.js Tailwind Bootstrap">
 </p>
 
-<h3>◈ Backend Engineering</h3>
+<h3>Backend Engineering</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python&theme=dark" alt="Backend technologies">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python" alt="Node.js Express PHP Python">
 </p>
 
-<h3>◈ Database Technologies</h3>
+<h3>Database Technologies</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark" alt="Database technologies">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" alt="MongoDB MySQL SQLite">
 </p>
 
-<h3>◈ 3D Development & Creative Engineering</h3>
+<h3>3D Development & Animation</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=threejs,webgl&theme=dark" alt="3D development technologies">
+  <img src="https://skillicons.dev/icons?i=threejs,webgl" alt="Three.js WebGL">
 </p>
 
-<h3>◈ Development Tools & Platforms</h3>
+<h3>Tools & Platforms</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,firebase,postman&theme=dark" alt="Development tools">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,firebase,postman" alt="Git GitHub VS Code Figma Vercel Firebase Postman">
 </p>
 
 ---
 
-<!-- ================= 04: GITHUB TELEMETRY ================= -->
+<!-- ================= GITHUB ANALYTICS ================= -->
 
 <h2>
-  <img src="https://img.shields.io/badge/04-GITHUB_TELEMETRY-8B5CF6?style=flat-square&labelColor=1D1D1F" height="25" alt="GitHub telemetry">
+  <img src="https://img.shields.io/badge/03-GITHUB_ANALYTICS-22D3EE?style=flat-square&logo=github&logoColor=black" height="25" alt="GitHub Analytics">
 </h2>
 
 <p align="center">
   <img
-    height="175"
-    src="https://github-readme-stats.vercel.app/api?username=Rexbiswas&show_icons=true&hide_border=true&bg_color=1D1D1F&title_color=00F5FF&icon_color=8B5CF6&text_color=F4F7FA&rank_icon=github"
-    alt="GitHub statistics"
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Rexbiswas&show_icons=true&hide_border=true&theme=transparent&title_color=22D3EE&icon_color=A78BFA&text_color=9CA3AF&rank_icon=github"
+    alt="Rishi's GitHub Statistics"
   >
+
   <img
-    height="175"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rexbiswas&layout=compact&hide_border=true&bg_color=1D1D1F&title_color=00F5FF&text_color=F4F7FA"
-    alt="Most used programming languages"
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rexbiswas&layout=compact&hide_border=true&theme=transparent&title_color=22D3EE&text_color=9CA3AF"
+    alt="Most Used Languages"
   >
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Rexbiswas&background=1D1D1F&hide_border=true&ring=00F5FF&fire=8B5CF6&currStreakLabel=00F5FF&sideLabels=F4F7FA&dates=929BA8&currStreakNum=F4F7FA&sideNums=F4F7FA"
-    width="75%"
-    alt="GitHub contribution streak"
+    src="https://streak-stats.demolab.com?user=Rexbiswas&theme=transparent&hide_border=true&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE"
+    alt="GitHub Contribution Streak"
   >
 </p>
 
 ---
 
-<!-- ================= 05: NEURAL ACTIVITY SCAN ================= -->
+<!-- ================= SNAKE ANIMATION ================= -->
 
 <h2>
-  <img src="https://img.shields.io/badge/05-NEURAL_ACTIVITY_SCAN-00F5FF?style=flat-square&labelColor=1D1D1F" height="25" alt="Neural activity scan">
+  <img src="https://img.shields.io/badge/04-CONTRIBUTION_UNIVERSE-22D3EE?style=flat-square&logo=githubactions&logoColor=black" height="25" alt="Contribution Universe">
 </h2>
 
 <p align="center">
-  <b>◉ CONTRIBUTION NETWORK // VISUALIZATION</b>
+  <b>WATCH MY CODING JOURNEY COME ALIVE</b>
 </p>
 
 <p align="center">
-  <i>Every commit adds another signal to the development network.</i>
+  <i>Every commit tells a story. Every contribution moves the journey forward.</i>
 </p>
 
 <picture>
@@ -232,130 +210,128 @@ console.log("Developer system initialized.");
 </picture>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CODE-00F5FF?style=flat-square&labelColor=1D1D1F" alt="Code">
-  <img src="https://img.shields.io/badge/COMMIT-8B5CF6?style=flat-square&labelColor=1D1D1F" alt="Commit">
-  <img src="https://img.shields.io/badge/REPEAT-00F5FF?style=flat-square&labelColor=1D1D1F" alt="Repeat">
+  <b>CODE. COMMIT. REPEAT.</b>
 </p>
 
 ---
 
-<!-- ================= 06: ACTIVITY MONITOR ================= -->
+<!-- ================= ACTIVITY GRAPH ================= -->
 
 <h2>
-  <img src="https://img.shields.io/badge/06-ACTIVITY_MONITOR-8B5CF6?style=flat-square&labelColor=1D1D1F" height="25" alt="Activity monitor">
+  <img src="https://img.shields.io/badge/05-CODING_ACTIVITY-22D3EE?style=flat-square&logo=github&logoColor=black" height="25" alt="Coding Activity">
 </h2>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Rexbiswas&bg_color=1D1D1F&color=00F5FF&line=8B5CF6&point=00F5FF&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Rexbiswas&bg_color=00000000&color=22D3EE&line=A78BFA&point=22D3EE&area=true&hide_border=true"
     width="100%"
-    alt="GitHub contribution activity graph"
+    alt="GitHub Activity Graph"
   >
 </p>
 
 ---
 
-<!-- ================= 07: PROJECT ARCHIVE ================= -->
+<!-- ================= PROJECT SHOWCASE ================= -->
 
 <h2>
-  <img src="https://img.shields.io/badge/07-PROJECT_ARCHIVE-00F5FF?style=flat-square&labelColor=1D1D1F" height="25" alt="Project archive">
+  <img src="https://img.shields.io/badge/06-FEATURED_PROJECTS-22D3EE?style=flat-square&logo=vercel&logoColor=black" height="25" alt="Featured Projects">
 </h2>
 
-<h3 align="center">
-  SELECTED DIGITAL EXPERIENCES
-</h3>
+<h3 align="center">Selected Digital Experiences</h3>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>◈ DIGITAL TIMES</h3>
-      <p>Digital news and editorial experience.</p>
-      <a href="https://digitaltimes.vercel.app/">
-        <img src="https://img.shields.io/badge/ACCESS_PROJECT-00F5FF?style=for-the-badge&labelColor=1D1D1F" alt="Explore Digital Times">
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3>◈ CORAL COOKIES</h3>
-      <p>Modern web experience for a cookie brand.</p>
-      <a href="https://coralcookies.vercel.app/">
-        <img src="https://img.shields.io/badge/ACCESS_PROJECT-8B5CF6?style=for-the-badge&labelColor=1D1D1F" alt="Explore Coral Cookies">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>◈ NOODLE ARTISTARY</h3>
-      <p>Creative food and digital brand experience.</p>
-      <a href="https://noodle-artistary.vercel.app/">
-        <img src="https://img.shields.io/badge/ACCESS_PROJECT-00F5FF?style=for-the-badge&labelColor=1D1D1F" alt="Explore Noodle Artistary">
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3>◈ CRYPTORA</h3>
-      <p>Cryptocurrency-themed digital experience.</p>
-      <a href="https://cryptora-smoky.vercel.app/">
-        <img src="https://img.shields.io/badge/ACCESS_PROJECT-8B5CF6?style=for-the-badge&labelColor=1D1D1F" alt="Explore Cryptora">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+
+  <a href="https://digitaltimes.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/DIGITAL_TIMES-Explore_Project-22D3EE?style=for-the-badge"
+      alt="Digital Times"
+    >
+  </a>
+
+  <a href="https://coralcookies.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/CORAL_COOKIES-Explore_Project-A78BFA?style=for-the-badge"
+      alt="Coral Cookies"
+    >
+  </a>
+
+</p>
+
+<p align="center">
+
+  <a href="https://noodle-artistary.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/NOODLE_ARTISTARY-Explore_Project-F59E0B?style=for-the-badge"
+      alt="Noodle Artistary"
+    >
+  </a>
+
+</p>
 
 <p align="center">
   <a href="https://portfolio-nu-ivory-6osvaih25l.vercel.app/">
-    <img src="https://img.shields.io/badge/EXPLORE_FULL_PORTFOLIO-00F5FF?style=for-the-badge&labelColor=1D1D1F&logo=vercel&logoColor=00F5FF" alt="Explore full portfolio">
+    <b>EXPLORE ALL PROJECTS →</b>
   </a>
 </p>
 
 ---
 
-<!-- ================= 08: COMMUNICATION CHANNEL ================= -->
+<!-- ================= CONNECT ================= -->
 
 <h2>
-  <img src="https://img.shields.io/badge/08-COMMUNICATION_CHANNEL-00F5FF?style=flat-square&labelColor=1D1D1F" height="25" alt="Communication channel">
+  <img src="https://img.shields.io/badge/07-LET'S_CONNECT-22D3EE?style=flat-square&logo=linktree&logoColor=black" height="25" alt="Connect">
 </h2>
 
 <p align="center">
-  <b>ESTABLISH A CONNECTION</b>
+  <b>Have an idea, project or opportunity? Let's connect.</b>
 </p>
 
 <p align="center">
-  Have an idea, collaboration or opportunity?
-  <br>
-  Let's engineer something extraordinary.
-</p>
 
-<p align="center">
   <a href="https://www.linkedin.com/in/rishi-biswas-0474a6258/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    >
   </a>
+
   <a href="https://portfolio-nu-ivory-6osvaih25l.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-00F5FF?style=for-the-badge&labelColor=1D1D1F&logo=vercel&logoColor=00F5FF" alt="Portfolio">
+    <img
+      src="https://img.shields.io/badge/PORTFOLIO-101827?style=for-the-badge&logo=vercel&logoColor=22D3EE"
+      alt="Portfolio"
+    >
   </a>
+
   <a href="mailto:rexbiswas1@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img
+      src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    >
   </a>
+
 </p>
 
 ---
 
-<!-- ================= SYSTEM FOOTER ================= -->
+<!-- ================= FOOTER ================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1D1D1F,50:164E63,100:8B5CF6&height=160&section=footer&text=BUILDING%20THE%20FUTURE&fontSize=25&fontColor=00F5FF&fontAlignY=65"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:080D18,50:164E63,100:7C3AED&height=150&section=footer&text=BUILDING%20%7C%20LEARNING%20%7C%20SHIPPING&fontSize=22&fontColor=FFFFFF&fontAlignY=65"
     width="100%"
-    alt="Building the future"
+    alt="Building Learning Shipping"
   >
 </p>
 
 <p align="center">
-  <samp>
-    SYSTEM STATUS: ALWAYS EVOLVING
-    <br>
-    TURNING IDEAS INTO DIGITAL EXPERIENCES.
-  </samp>
+  <b>TURNING IDEAS INTO DIGITAL EXPERIENCES.</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/END_OF_TRANSMISSION-00F5FF?style=flat-square&labelColor=1D1D1F" alt="End of transmission">
+  <a href="https://portfolio-nu-ivory-6osvaih25l.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING-22D3EE?style=for-the-badge&logo=vercel&logoColor=black"
+      alt="Let's build something"
+    >
+  </a>
 </p>
